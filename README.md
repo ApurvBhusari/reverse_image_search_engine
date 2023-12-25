@@ -1,3 +1,9 @@
+# This is the repository for data collection 
+https://github.com/ApurvBhusari/search_engine_data_collection
+
+# This is the repository for Prediction 
+https://github.com/ApurvBhusari/search_engine_prediction
+
 # SearchEngine-ModelTrainer
 ModelTrainer endpoint is a continuous Training pipeline where I have added paperspace GPU Instance as a runner to
 with high configuration. Since Training endpoint is expensive we cant keep it live all the time so, Instance will Always be in off state.
